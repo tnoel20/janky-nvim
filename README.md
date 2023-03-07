@@ -9,7 +9,7 @@ Install all the necessaries:
 sudo apt install neovim
 
 # Install this repo (HTTPS)
-git clone https://github.com/jonathanvanschenck/janky-nvim.git ~/.config/nvim
+git clone https://github.com/tnoel20/janky-nvim.git ~/.config/nvim
 
 # Install `plug.vim`
 curl -fLo ~/.config/nvim/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
